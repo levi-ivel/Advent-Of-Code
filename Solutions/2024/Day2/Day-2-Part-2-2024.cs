@@ -4,11 +4,15 @@
 
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 class Day2Part2_2024
 {
     public static void ExecuteDay2Part2()
     {
+        Stopwatch stopwatch = new Stopwatch();
+        stopwatch.Start();
+        
         // Define and read input 
         string day2Input = "Solutions/2024/Day2/Inputs/Day2Input.txt";
 
@@ -83,5 +87,7 @@ class Day2Part2_2024
 
         // Display the safe counter
         Console.WriteLine($"Safe Number: {safeCounter}");
+        stopwatch.Stop();
+        Console.WriteLine($"Execution Time: {stopwatch.ElapsedMilliseconds} ms");
     }
 }

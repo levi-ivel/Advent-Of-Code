@@ -4,11 +4,15 @@
 
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 class Day1Part1_2024
 {
     public static void ExecuteDay1Part1()
     {
+        Stopwatch stopwatch = new Stopwatch();
+        stopwatch.Start();
+
         // Define input data 
         string day1Input = "Solutions/2024/Day1/Inputs/Day1Input.txt";
 
@@ -59,6 +63,9 @@ class Day1Part1_2024
 
             // Displays all distances added up
             Console.WriteLine($"Final Number: {finalNumber}");
+            
+            stopwatch.Stop();
+            Console.WriteLine($"Execution Time: {stopwatch.ElapsedMilliseconds} ms");
         }
         catch (FileNotFoundException)
         {
