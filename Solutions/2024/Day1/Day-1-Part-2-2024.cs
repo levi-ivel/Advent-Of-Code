@@ -1,7 +1,6 @@
 // To see puzzle description, see README
 
-// Time complexity: O(n)
-// Space complexity: O(n)
+// Time complexity: O(n + m), where n is the amount of lines and m is the amount of numbers in the right list
 
 using System;
 using System.Collections.Generic;

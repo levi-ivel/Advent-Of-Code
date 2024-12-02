@@ -1,7 +1,6 @@
 ﻿﻿// To see puzzle description, see README
 
-// Time complexity: O(n log n)
-// Space complexity: O(n)
+// Time complexity: O(n log n), where n is the amount of lines
 
 using System;
 using System.Collections.Generic;
