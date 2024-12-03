@@ -1,6 +1,7 @@
 ﻿﻿// To see puzzle description, see README
 
 // Time complexity: O(n log n), where n is the amount of lines
+// Execution time: 13 miliseconds
 
 using System;
 using System.Collections.Generic;
@@ -54,9 +55,6 @@ class Day1Part1_2024
             for (int i = 0; i < leftNumbers.Count; i++)
             {
                 int distance = Math.Abs(rightNumbers[i] - leftNumbers[i]);
-
-                // Displays distance for a given pair
-                Console.WriteLine($"Distance {i + 1}: {distance}");
 
                 finalNumber += distance;
             }

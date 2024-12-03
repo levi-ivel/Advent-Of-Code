@@ -1,6 +1,7 @@
 ﻿// To see puzzle description, see README
 
 // Time complexity: O(n * m ^ 2), where n is the amount of lines and m is the amount of numbers per line
+// Execution time: 15 miliseconds
 
 using System;
 using System.Collections.Generic;
