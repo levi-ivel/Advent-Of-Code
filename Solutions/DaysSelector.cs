@@ -9,7 +9,7 @@ class Program
         Console.WriteLine("Enter the year (2024 to 2024):");
         string? year = Console.ReadLine();
 
-        Console.WriteLine("Enter the day (1 to 4):");
+        Console.WriteLine("Enter the day (1 to 5):");
         string? day = Console.ReadLine();
 
         Console.WriteLine("Enter the part (1 to 2):");
