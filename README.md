@@ -18,3 +18,6 @@ Day 4 (Part 2): [Description](https://adventofcode.com/2024/day/4#part2) - [Solu
 <br>
 Day 5 (Part 1): [Description](https://adventofcode.com/2024/day/5) - [Solution](Solutions/2024/Day5/Day-5-Part-1-2024.cs) <br>
 Day 5 (Part 2): [Description](https://adventofcode.com/2024/day/5#part2) - [Solution](Solutions/2024/Day5/Day-5-Part-2-2024.cs) <br>
+<br>
+Day 6 (Part 1): [Description](https://adventofcode.com/2024/day/6) - [Solution](Solutions/2024/Day6/Day-6-Part-1-2024.cs) <br>
+Day 6 (Part 2): [Description](https://adventofcode.com/2024/day/6#part2) - [Solution](Solutions/2024/Day6/Day-6-Part-2-2024.cs) <br>
