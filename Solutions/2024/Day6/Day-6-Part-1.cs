@@ -1,7 +1,7 @@
 // To see puzzle description, see README
 
 // Time complexity: O(n * m ^ 2), where n is the amount of rows and m is the amount of columns
-// Execution time: 384 miliseconds (yikes!)
+// Execution time: 384 miliseconds (yikes! will be optimized later)
 
 using System;
 using System.Diagnostics;

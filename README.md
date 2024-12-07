@@ -21,3 +21,6 @@ Day 5 (Part 2): [Description](https://adventofcode.com/2024/day/5#part2) - [Solu
 <br>
 Day 6 (Part 1): [Description](https://adventofcode.com/2024/day/6) - [Solution](Solutions/2024/Day6/Day-6-Part-1-2024.cs) <br>
 Day 6 (Part 2): [Description](https://adventofcode.com/2024/day/6#part2) - [Solution](Solutions/2024/Day6/Day-6-Part-2-2024.cs) <br>
+<br>
+Day 7 (Part 1): [Description](https://adventofcode.com/2024/day/7) - [Solution](Solutions/2024/Day6/Day-7-Part-1-2024.cs) <br>
+Day 7 (Part 2): [Description](https://adventofcode.com/2024/day/7#part2) - [Solution](Solutions/2024/Day6/Day-7-Part-2-2024.cs) <br>
